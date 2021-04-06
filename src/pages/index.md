@@ -1,21 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Federico Zanetti
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Foto Audio e Video
+subheading: La vita è come una mela, va vissuta a morsi
 mainpitch:
-  title: Why Kaldi
+  title: Il maestro
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    Federico Zanetti, potrà sembrare un nome come tanti altri, ma nasconde un
+    mondo di pensieri, parole e immagini che devono solo essere scoperti. la
+    professionalità e lo studio approfondito di vari argomenti rendono questo
+    personaggio un maestro d'arte a tutto tondo.
+description: Dopo diversi anndi di studio e di pratica sul territorio del lago
+  di como, Federico Zanetti è un artista riconosciuto dai molti e anche dalle
+  istituzione e da varie testate giornalistiche.
 intro:
   blurbs:
     - image: /img/coffee.png

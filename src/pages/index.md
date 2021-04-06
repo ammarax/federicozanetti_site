@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Federico Zanetti
-image: /img/home.jpg
+image: /img/home2.jpg
 heading: Foto Audio e Video
 subheading: La vita è come una mela, va vissuta a morsi
 mainpitch:
